@@ -27,11 +27,11 @@ const Layout = () => {
             <input type="text" placeholder="Enter here" />
           </div>
           <div className={css.profile}>
-            <img src="./profile.jpg" alt="" />
+            <img src="./Photo.jpg" alt="" />
 
             <div className={css.details}>
-              <span>Arfain Saba</span>
-              <span>arfainsabasaba@gmail.com</span>
+              <span>Rameshwar Dangi</span>
+              <span>rameshwardangi0611@gmail.com</span>
             </div>
           </div>
         </div>
